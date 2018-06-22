@@ -1,0 +1,2 @@
+# dilated_causal_network
+wavenetで提案されたdilated causal networkの検証をしてみます
